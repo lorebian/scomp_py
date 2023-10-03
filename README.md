@@ -1,2 +1,2 @@
 # scomp_py
-Testing git features
+Small projects of Scientific Computing in Python
